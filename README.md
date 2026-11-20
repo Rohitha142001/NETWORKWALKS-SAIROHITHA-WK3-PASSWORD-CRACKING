@@ -49,13 +49,14 @@ Two practical modules were completed using John the Ripper, Johnny GUI and Netwo
 
 <img width="1920" height="1017" alt="1" src="https://github.com/user-attachments/assets/c606b8e8-bcb0-48c3-ae68-96836deb5387" />
 
-<img width="1920" height="1014" alt="2" src="https://github.com/user-attachments/assets/aeebe3bc-a324-450c-bee8-c4db922362ae" />
+<img width="1920" height="1011" alt="12" src="https://github.com/user-attachments/assets/1b41d998-b1bb-4ada-a4ee-f3a2d960caff" />
 
-<img width="1920" height="1080" alt="Screenshot 2026-11-19 223108" src="https://github.com/user-attachments/assets/12211742-9786-4806-9c88-7bc50bf12438" />
+<img width="1920" height="1017" alt="11" src="https://github.com/user-attachments/assets/6e3d241b-f21e-4a76-9d96-bb9520d62d09" />
 
-<img width="853" height="661" alt="Screenshot 2026-11-14 075309" src="https://github.com/user-attachments/assets/15d6b492-fd58-419a-b6b8-cb3075f897ed" />
+<img width="1920" height="1014" alt="9" src="https://github.com/user-attachments/assets/7070f6e4-71ad-4bea-8588-17bd344370b3" />
 
-<img width="999" height="706" alt="Screenshot 2026-11-14 073847" src="https://github.com/user-attachments/assets/28bc43b1-31f7-4c5a-827d-4c7d7d334b51" />
+<img width="1920" height="1011" alt="10" src="https://github.com/user-attachments/assets/6064a2e2-d3a8-48da-b18c-83991b98d057" />
+
 
 
 ---
