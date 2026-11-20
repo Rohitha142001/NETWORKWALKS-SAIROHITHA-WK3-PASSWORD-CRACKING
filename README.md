@@ -8,7 +8,7 @@
 
 ## 👩‍💻 Details
 
-- **Name:** Sairohitha
+- **Name:** Sairohitha Kuchala
 - **Batch:** B084
 - **Week:** 3
 - **Project:** Password Cracking
