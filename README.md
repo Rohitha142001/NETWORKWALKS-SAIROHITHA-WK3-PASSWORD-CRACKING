@@ -100,7 +100,7 @@ Two practical modules were completed using John the Ripper, Johnny GUI and Netwo
 
 ## 📝 Conclusion
 
-Successfully completed both Week 3 practical modules. I gained hands-on practical experience by completing lab/practical exercises focused on **password cracking, hash analysis, hash extraction, and password security
+Successfully completed both Week 3 practical modules. I gained hands-on practical experience by completing lab focused on **password cracking, hash analysis and password security
 
 # 👤 Author
 
