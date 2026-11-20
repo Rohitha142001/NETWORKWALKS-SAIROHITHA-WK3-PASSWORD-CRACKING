@@ -81,6 +81,8 @@ Two practical modules were completed using John the Ripper, Johnny GUI and Netwo
 <img width="1920" height="1080" alt="Screenshot 2026-11-19 223921" src="https://github.com/user-attachments/assets/ea524194-e1b2-42f3-a8d2-f6df98687f6b" />
 <img width="1920" height="1004" alt="5" src="https://github.com/user-attachments/assets/353f1f5a-babc-4106-8cc6-e817645c0c14" />
 <img width="1920" height="1007" alt="6" src="https://github.com/user-attachments/assets/020c0062-d0b3-4518-bafc-251362ee6193" />
+
+### Locked pdf 2
 <img width="1920" height="1014" alt="7" src="https://github.com/user-attachments/assets/100afbfc-203d-42de-b158-4a11a65e1e5e" />
 
 
@@ -88,11 +90,9 @@ Two practical modules were completed using John the Ripper, Johnny GUI and Netwo
 
 ## 📚 Key Learnings
 
-- Understanding the difference between encryption and hashing.
 - Learning how PDF password protection works.
 - Understanding PDF hash extraction.
 - Using John the Ripper and Johnny GUI.
-- Using online password recovery tools.
 - Understanding the importance of strong and unique passwords.
 
 ---
